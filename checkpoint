@@ -1,2 +1,0 @@
-model_checkpoint_path: "bongsang_model.ckpt"
-all_model_checkpoint_paths: "bongsang_model.ckpt"
